@@ -1,5 +1,4 @@
 ## USD to INR Time Series Analysis and Forecasting
-===============================================
 
 ### Overview
 --------
