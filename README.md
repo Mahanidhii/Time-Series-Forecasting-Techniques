@@ -1,5 +1,4 @@
-# USD to INR Exchange Rate Forecasting using ARIMA
-
+# USD to INR Exchange Rate Forecasting using 
 This project focuses on forecasting the daily exchange rate between the US Dollar (USD) and the Indian Rupee (INR) using an Autoregressive Integrated Moving Average (ARIMA) model. The analysis is conducted in a Jupyter Notebook (`USD_to_INR_Analysis.ipynb`).
 
 ## Project Overview
